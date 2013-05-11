@@ -6,18 +6,18 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 group :development do
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3' #, '1.3.5'
 end
 
 group :production do
-  gem 'pg', '0.12.2'
+  gem 'pg' #, '0.12.2'
 end
 
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
-  gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+  gem 'twitter-bootstrap-rails' #, :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platforms => :ruby
