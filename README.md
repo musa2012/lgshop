@@ -1,1 +1,1 @@
-New rails app!!!
+New rails app!!! railstutorial
