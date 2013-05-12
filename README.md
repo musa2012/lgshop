@@ -1,1 +1,1 @@
-New rails app!!! railstutorial
+New rails app!!! hasbrains
